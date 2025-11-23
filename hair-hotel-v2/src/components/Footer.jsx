@@ -39,7 +39,7 @@ const Footer = () => {
               <li><Link to="/galeri" className="hover:text-bronze transition-colors">Öncesi & Sonrası</Link></li>
               <li><Link to="/blog" className="hover:text-bronze transition-colors">Blog / Makaleler</Link></li>
               <li><Link to="/iletisim" className="hover:text-bronze transition-colors">İletişim & Ulaşım</Link></li>
-              <li><Link to="/kurumsal/kvkk" className="hover:text-bronze transition-colors">KVKK Aydınlatma Metni</Link></li>""
+              <li><Link to="/kurumsal/kvkk" className="hover:text-bronze transition-colors">KVKK Aydınlatma Metni</Link></li>
             </ul>
           </div>
 
