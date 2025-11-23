@@ -1,17 +1,21 @@
 import Navbar from './components/Navbar';
+import Home from './pages/Home'; // <--- BU EKLENDİ (Anasayfayı çağırdık)
 import { Routes, Route } from 'react-router-dom';
 
 function App() {
   return (
-    <div className="font-sans text-gray-800">
-      {/* Navbar En Üstte */}
+    <div className="font-sans text-gray-200 min-h-screen bg-dark-bg">
       <Navbar />
-
-      {/* Sayfa İçerikleri (Navbar'ın altında kalmasın diye padding-top verdik: pt-20) */}
-      <main className="pt-20 min-h-screen bg-gray-50">
+      
+      {/* Navbar sabit olduğu için arkada kalmasın ama Slider tam ekran olsun diye padding yok */}
+      <main>
         <Routes>
-          <Route path="/" element={<div className="p-10 text-center text-3xl">Anasayfa İçeriği Buraya Gelecek</div>} />
-          {/* Diğer sayfaları sonra ekleyeceğiz */}
+          {/* Anasayfa Rotası: Artık Home bileşenini gösteriyor */}
+          <Route path="/" element={<Home />} />
+          
+          {/* Diğer sayfalar için test rotaları */}
+          <Route path="/iletisim" element={<div className="pt-32 text-center">İletişim Sayfası</div>} />
+          <Route path="/hizmet/:slug" element={<div className="pt-32 text-center">Hizmet Detay Sayfası</div>} />
         </Routes>
       </main>
     </div>
