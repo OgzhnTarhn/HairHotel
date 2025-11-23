@@ -8,8 +8,9 @@ import Home from './pages/Home';
 import ServiceDetail from './pages/ServiceDetail';
 import Gallery from './pages/Gallery';
 import Blog from './pages/Blog';
-import BlogDetail from './pages/BlogDetail'; // <--- YENİ EKLENDİ
+import BlogDetail from './pages/BlogDetail';
 import Contact from './pages/Contact';
+import Legal from './pages/Legal'; // <--- YENİ EKLENDİ
 
 const ScrollToTop = () => {
   const { pathname } = useLocation();
@@ -30,11 +31,12 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/hizmet/:slug" element={<ServiceDetail />} />
           <Route path="/galeri" element={<Gallery />} />
-          
           <Route path="/blog" element={<Blog />} />
-          <Route path="/blog/:id" element={<BlogDetail />} /> {/* <--- DETAY SAYFASI BAĞLANDI */}
-          
+          <Route path="/blog/:id" element={<BlogDetail />} />
           <Route path="/iletisim" element={<Contact />} />
+          
+          {/* YASAL SAYFALAR ROTASI */}
+          <Route path="/kurumsal/:slug" element={<Legal />} />
         </Routes>
       </main>
 
