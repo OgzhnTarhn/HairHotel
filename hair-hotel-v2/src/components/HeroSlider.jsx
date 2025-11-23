@@ -64,7 +64,7 @@ const HeroSlider = () => {
               <div className={`max-w-2xl transform transition-all duration-1000 delay-300 ${index === current ? 'translate-y-0 opacity-100' : 'translate-y-10 opacity-0'}`}>
                 
                 <span className="block text-bronze text-sm md:text-base font-bold tracking-[0.3em] uppercase mb-4">
-                  Hair Hotel Exclusive
+                  Hair Maker 
                 </span>
                 
                 <h1 className="text-4xl md:text-7xl font-bold text-white mb-6 leading-tight">

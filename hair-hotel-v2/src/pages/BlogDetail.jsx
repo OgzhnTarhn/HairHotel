@@ -71,7 +71,7 @@ const BlogDetail = () => {
           {/* Alt Kısım: Paylaş ve Geri Dön */}
           <div className="mt-16 pt-8 border-t border-white/10 flex flex-col sm:flex-row justify-between items-center gap-6">
             <div className="text-gray-500 text-sm">
-              Yazar: <span className="text-bronze font-bold">Hair Hotel Uzmanları</span>
+              Yazar: <span className="text-bronze font-bold">Hair Maker Uzmanları</span>
             </div>
             
             <Link 

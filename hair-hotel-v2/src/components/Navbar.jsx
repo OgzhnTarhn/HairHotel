@@ -33,11 +33,9 @@ const Navbar = () => {
           {/* LOGO */}
           <Link to="/" className="group z-50">
             <div className="text-2xl font-bold tracking-[0.2em] text-white uppercase drop-shadow-md">
-              Hair <span className="text-bronze group-hover:text-white transition-colors">Hotel</span>
+              Hair <span className="text-bronze group-hover:text-white transition-colors">Maker</span>
             </div>
-            <div className="text-[8px] tracking-[0.4em] text-gray-300 uppercase text-center mt-1 group-hover:text-bronze transition-colors font-bold drop-shadow-md">
-              Exclusive
-            </div>
+            <div className="text-[8px] tracking-[0.4em] text-gray-300 uppercase text-center mt-1 group-hover:text-bronze transition-colors font-bold drop-shadow-md">            </div>
           </Link>
 
           {/* MENÜ LİNKLERİ */}
@@ -88,12 +86,12 @@ const Navbar = () => {
               className="text-white text-xs font-bold tracking-wider hover:text-bronze transition-colors flex items-center gap-2 drop-shadow-lg"
             >
               <span className="text-bronze text-sm">📞</span> 
-              0(533) 000 00 00
+              0(501) 649 34 35
             </a>
 
             {/* Randevu Butonu - Arkasına hafif siyahlık attık */}
             <a 
-              href="https://wa.me/905330000000" 
+              href="https://wa.me/905016493435" 
               className="bg-black/30 backdrop-blur-sm border border-bronze text-bronze px-6 py-2 text-xs font-bold tracking-widest uppercase hover:bg-bronze hover:text-black transition-all duration-300 shadow-lg"
             >
               Randevu Al

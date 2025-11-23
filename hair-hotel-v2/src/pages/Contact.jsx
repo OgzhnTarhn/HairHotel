@@ -19,7 +19,7 @@ const Contact = () => {
     e.preventDefault();
 
     // 🔴 BURAYI KENDİ NUMARANLA DEĞİŞTİR (Başında + olmadan 90 ile başla)
-    const phoneNumber = "905330000000"; 
+    const phoneNumber = "905016493435"; 
 
     // Mesaj Formatı (İstediğin Gibi Sadeleştirildi)
     // %0A kodu "Alt satıra geç" demektir.
@@ -64,7 +64,7 @@ const Contact = () => {
                 <div className="w-12 h-12 bg-[#1a1a1a] border border-white/10 flex items-center justify-center text-bronze text-xl rounded-sm mr-6 shrink-0">📍</div>
                 <div>
                   <h3 className="text-white font-bold uppercase tracking-wider text-sm mb-2">Merkez Ofis</h3>
-                  <p className="text-gray-400">Çukurambar Mah. 1071. Cadde<br />No: 25 A Blok, Çankaya / Ankara</p>
+                  <p className="text-gray-400">İzzetpaşa mahallesi lale 1 sokak ikbal apartmanı<br />no 5 / 1B, Şişli / İstanbul</p>
                 </div>
               </div>
 
@@ -72,7 +72,7 @@ const Contact = () => {
                 <div className="w-12 h-12 bg-[#1a1a1a] border border-white/10 flex items-center justify-center text-bronze text-xl rounded-sm mr-6 shrink-0">📞</div>
                 <div>
                   <h3 className="text-white font-bold uppercase tracking-wider text-sm mb-2">Telefon & Whatsapp</h3>
-                  <p className="text-gray-400 mb-1">Randevu: <a href="tel:+905330000000" className="text-white hover:text-bronze transition-colors">0(533) 000 00 00</a></p>
+                  <p className="text-gray-400 mb-1">Randevu: <a href="tel:+905016493435" className="text-white hover:text-bronze transition-colors">0(501) 649 34 35</a></p>
                 </div>
               </div>
 
@@ -80,7 +80,7 @@ const Contact = () => {
                 <div className="w-12 h-12 bg-[#1a1a1a] border border-white/10 flex items-center justify-center text-bronze text-xl rounded-sm mr-6 shrink-0">✉️</div>
                 <div>
                   <h3 className="text-white font-bold uppercase tracking-wider text-sm mb-2">E-Posta</h3>
-                  <p className="text-gray-400">info@hairhotel.com.tr</p>
+                  <p className="text-gray-400">info@hairmaker.com.tr</p>
                 </div>
               </div>
             </div>
@@ -161,16 +161,17 @@ const Contact = () => {
         </div>
       </div>
 
-      {/* HARİTA */}
+   {/* HARİTA */}
       <div className="w-full h-[400px] border-t border-white/10 grayscale hover:grayscale-0 transition-all duration-700">
         <iframe 
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d48995.83645398236!2d32.78768795898859!3d39.9030391263056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14d34f190a9fea8f%3A0xad110bd9d8a598c9!2zw4dhbmtheWEvQW5rYXJh!5e0!3m2!1str!2str!4v1700736000000!5m2!1str!2str" 
+          src="https://maps.google.com/maps?width=100%25&height=100%25&hl=tr&q=%C4%B0zzetpa%C5%9Fa+Mahallesi+Lale+1+Sokak+No:5+%C5%9Ei%C5%9Fli+%C4%B0stanbul&t=&z=15&ie=UTF8&iwloc=B&output=embed" 
           width="100%" 
           height="100%" 
           style={{ border: 0 }} 
           allowFullScreen="" 
           loading="lazy" 
           referrerPolicy="no-referrer-when-downgrade"
+          title="Google Maps"
         ></iframe>
       </div>
 

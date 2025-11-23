@@ -15,7 +15,7 @@ export const serviceDetails = {
 
     Neden 12 yaş sınırı? Protez saç, uygulandıktan sonra periyodik bakım ve hijyen gerektiren bir kozmetik üründür (tıpkı diş protezi veya kontak lens gibi). Bu nedenle kişinin, kimseye ihtiyaç duymadan kendi kişisel bakımını yapabilecek olgunlukta olması gerekir. Ayrıca Egzama, Epidermal Alerji gibi kronik ve ağır cilt hastalığı olanlara uygulama tavsiye edilmez. Bu istisnalar dışında kalan herkes için güvenlidir.
 
-    Protez saçın sunduğu yaşam standardı, "Kısıtlanmamış Özgürlük"tür. Yüksek kalite standartlarında üretilen, hava ve su geçiren altyapılarımız sayesinde; günlük rutininizde hiçbir şeyi değiştirmenize gerek kalmaz. Duş alabilir, denize ve havuza girebilir, saçınızı tarayıp şekil verebilir, fön çektirebilirsiniz. Cerrahi bir işlem olmadığı için acı, ağrı veya sağlık riski yoktur; ayrıca geri dönüşü mümkün olan bir işlemdir. Kısacası Hair Hotel olarak, kaybettiğiniz saçlarınızı size en doğal ve konforlu haliyle geri veriyoruz.`,
+    Protez saçın sunduğu yaşam standardı, "Kısıtlanmamış Özgürlük"tür. Yüksek kalite standartlarında üretilen, hava ve su geçiren altyapılarımız sayesinde; günlük rutininizde hiçbir şeyi değiştirmenize gerek kalmaz. Duş alabilir, denize ve havuza girebilir, saçınızı tarayıp şekil verebilir, fön çektirebilirsiniz. Cerrahi bir işlem olmadığı için acı, ağrı veya sağlık riski yoktur; ayrıca geri dönüşü mümkün olan bir işlemdir. Kısacası Hair Maker olarak, kaybettiğiniz saçlarınızı size en doğal ve konforlu haliyle geri veriyoruz.`,
 
     features: [
       "Cerrahi işlem, ağrı, sızı veya kanama kesinlikle yoktur.",
@@ -56,7 +56,7 @@ export const serviceDetails = {
     // 1. KISIM (Resmin Üstü - Genel Bilgi ve Psikoloji)
     desc1: `Protez saç denilince akla ilk önce erkekler gelse de, günümüzde kadınlar da saç dökülmesi ve seyrelmesi konusunda yoğun sorunlar yaşamakta ve çözüm arayışına girmektedir. Saçlar, bir kadının en göze çarpan fiziksel özelliklerinden biridir; sağlıklı ve canlı saçlar kadının görünümünü, özgüvenini ve benlik saygısını doğrudan etkiler. Bu nedenle saç kaybı, kadınlar için sadece estetik değil, travmatik bir süreçtir.
 
-    Kadınlar için protez saç uygulamasının en cazip tarafı, diğer klasik saçlandırma teknikleri (postiş, tepelik, peruk, çıtçıt veya saç simülasyonu) düşünüldüğünde, sunduğu "Konforlu Yaşam Standardı"dır. Perukların yapaylığı, kayma riski veya cildi havasız bırakması gibi sorunlar Hair Hotel'in yeni nesil sistemlerinde yaşanmaz. Kadınlarda iyi uygulanmış bir protez saçın, sahip olduğu %100 doğal görünümü ve doğal salınımı sayesinde, dışarıdan bakan bir göz tarafından anlaşılması kesinlikle mümkün değildir.
+    Kadınlar için protez saç uygulamasının en cazip tarafı, diğer klasik saçlandırma teknikleri (postiş, tepelik, peruk, çıtçıt veya saç simülasyonu) düşünüldüğünde, sunduğu "Konforlu Yaşam Standardı"dır. Perukların yapaylığı, kayma riski veya cildi havasız bırakması gibi sorunlar Hair Maker'ın yeni nesil sistemlerinde yaşanmaz. Kadınlarda iyi uygulanmış bir protez saçın, sahip olduğu %100 doğal görünümü ve doğal salınımı sayesinde, dışarıdan bakan bir göz tarafından anlaşılması kesinlikle mümkün değildir.
 
     Genellikle kadınlara özgü olan "Diffüz Dökülme"nin yanı sıra, erkek tipi saç dökülmesi diye tabir ettiğimiz "Androgenetik Alopesi" gibi dökülmelere de sıkça rastlıyoruz. Bu sorunun çözümü için başvurulan bazı ticari ürünler ve pahalı tedaviler, saça ve saç köklerine zarar verme riski taşıyan kimyasallar içerebiliyor. Eğer saç kaybınız telafisi mümkün olmayan boyuta ulaşmışsa veya kellik noktasına gelmişse bile üzülmeyin. Protez saç uygulaması hiçbir sağlık riski oluşturmadan, son derece doğal ve pratik bir şekilde, istediğiniz gür saçlara %100 kavuşma garantisiyle hayat kurtarıyor.`,
 
@@ -80,12 +80,12 @@ export const serviceDetails = {
     image: "https://images.unsplash.com/photo-1585747860715-2ba37e788b70?q=80&w=2074&auto=format&fit=crop",
     
     // 1. KISIM (Gerçekler ve Süre)
-    desc1: `Protez saç uygulaması yaptırmayı düşünen kişilerin aklındaki en büyük soru işareti şüphesiz ki "Bu saçı ne kadar süre kullanabilirim?" sorusudur. Sektörde bu konuda çok farklı söylemler dolaşsa da, Hair Hotel olarak politikamız şeffaflık ve dürüstlük üzerine kuruludur. Öncelikle şunu net bir şekilde belirtmeliyiz ki; "Ömürlük Protez Saç" diye bir şey dünyada yoktur. Protez saç, tıpkı bir kontak lens veya diş protezi gibi, belirli bir kullanım ömrü olan, yaşayan (canlı saçtan üretilen) estetik bir materyaldir.
+    desc1: `Protez saç uygulaması yaptırmayı düşünen kişilerin aklındaki en büyük soru işareti şüphesiz ki "Bu saçı ne kadar süre kullanabilirim?" sorusudur. Sektörde bu konuda çok farklı söylemler dolaşsa da, Hair Maker olarak politikamız şeffaflık ve dürüstlük üzerine kuruludur. Öncelikle şunu net bir şekilde belirtmeliyiz ki; "Ömürlük Protez Saç" diye bir şey dünyada yoktur. Protez saç, tıpkı bir kontak lens veya diş protezi gibi, belirli bir kullanım ömrü olan, yaşayan (canlı saçtan üretilen) estetik bir materyaldir.
 
     Protez saçın ömrü konusu kişiden kişiye değişebilen "itilaflı" bir konu olmakla birlikte, dünya standartlarında kaliteli bir altyapı ve %100 insan saçı kullanıldığında ortalama kullanım süresi 1 yıl ile 1.5 yıl arasındadır. Ancak bu süre kesin bir kural değildir; tamamen kullanıcının yaşam kalitesine, kullanım alışkanlıklarına ve gösterdiği özene göre değişir. Yani bu süreyi uzatmak da, ihmal ederek kısaltmak da büyük ölçüde kullanıcının elindedir.`,
 
     // 2. KISIM (Etkileyen Faktörler ve Bakım)
-    desc2: `Peki bu ömrü neler etkiler? İlk ve en önemli faktör, hizmet aldığınız merkezdir. Kurumsal hizmet veren, Amerikan veya Avrupa menşeli yüksek kalite materyaller kullanan Hair Hotel gibi firmalar ile "merdiven altı" üretim yapan yerler arasında dağlar kadar fark vardır. Kaliteli işçilik ve doğru altyapı seçimi, protezin dayanıklılığını doğrudan artırır.
+    desc2: `Peki bu ömrü neler etkiler? İlk ve en önemli faktör, hizmet aldığınız merkezdir. Kurumsal hizmet veren, Amerikan veya Avrupa menşeli yüksek kalite materyaller kullanan Hair Maker gibi firmalar ile "merdiven altı" üretim yapan yerler arasında dağlar kadar fark vardır. Kaliteli işçilik ve doğru altyapı seçimi, protezin dayanıklılığını doğrudan artırır.
 
     İkinci faktör ise sizin bakım rutininizdir. Protez saçınıza, uzmanlarımızın önerdiği kozmetik ürünlerle (özel şampuanlar, kremler ve spreyler) düzenli bakım yaparsanız, saçın nem dengesini korur ve dökülmesini engellersiniz. Aşırı sıcak su kullanımı, yanlış tarama teknikleri veya bakımların aksatılması süreyi kısaltabilir. Unutulmamalıdır ki; protez saç canlı bir kökten beslenmediği için, dışarıdan alacağı nem ve bakıma muhtaçtır. Düzenli periyodik bakımlarını yaptıran, hırçın kullanımdan kaçınan kullanıcılarımızda bu sürenin çok daha verimli geçtiğini gözlemlemekteyiz.`,
 
@@ -110,7 +110,7 @@ export const serviceDetails = {
     // 2. KISIM (İşlem Adımları & Evde Bakım)
     desc2: `Peki bakım işlemi nasıl yapılır? Süreç, protez saçın cildinizden özel solüsyonlar yardımıyla nazikçe ayrılmasıyla başlar. Bakım esnasında saç ünitesi, üzerindeki eski bant veya sıvı yapıştırıcılardan tamamen arındırılır. Ardından hem cildiniz hem de saç ünitesi, bu iş için özel üretilmiş temizleyiciler ve şampuanlarla yıkanır, sterilize edilir. İyice temizlenen saç ünitesi fönlenir, taranır, nemlendirici bakım kremleri uygulanır ve alt yapısındaki bantlar yenilenerek tekrar başınıza sabitlenir.
 
-    En güzel tarafı ise "Bağımsızlık"tır. Protez saç bakımını mutlaka bir merkezde yaptırmak zorunda değilsiniz. Günlük temel ihtiyaçlarını karşılayabilen herkes, uzmanlarımızdan alacağı kısa bir eğitim ve birkaç deneme sonrasında kendi bakımını evinin konforunda, kendi banyosunda rahatlıkla yapabilir. Hair Hotel olarak hem merkezimizde VIP bakım hizmeti sunuyor hem de evde bakım yapmak isteyen kullanıcılarımıza gerekli tüm eğitim ve malzeme desteğini sağlıyoruz.`,
+    En güzel tarafı ise "Bağımsızlık"tır. Protez saç bakımını mutlaka bir merkezde yaptırmak zorunda değilsiniz. Günlük temel ihtiyaçlarını karşılayabilen herkes, uzmanlarımızdan alacağı kısa bir eğitim ve birkaç deneme sonrasında kendi bakımını evinin konforunda, kendi banyosunda rahatlıkla yapabilir. Hair Maker olarak hem merkezimizde VIP bakım hizmeti sunuyor hem de evde bakım yapmak isteyen kullanıcılarımıza gerekli tüm eğitim ve malzeme desteğini sağlıyoruz.`,
 
     features: [
       "Bakım periyodu kişinin cilt yapısına göre ortalama 3-4 haftadır.",
@@ -157,7 +157,7 @@ export const serviceDetails = {
     // 2. KISIM (Kalıcı Hasarlar ve Çözüm)
     desc2: `Fiziksel travmaların (yanık, kesik, ameliyat izi) neden olduğu dökülmelerde ise durum daha farklıdır. Eğer kaza sonucunda saçlı derideki doku hasar görmüşse (Skar dokusu oluşmuşsa), o bölgedeki saç kökleri ölmüş olabilir ve bir daha doğal yolla saç çıkışı gerçekleşmeyebilir. Saç ekimi de, hasarlı dokunun kan dolaşımı zayıf olduğu için bu tür vakalarda her zaman istenen sonucu vermeyebilir.
 
-    Hair Hotel olarak sunduğumuz "Medikal Protez Sistemleri", tam da bu noktada devreye girer. Kaza, yanık veya ameliyat izlerinin olduğu bölgeye özel olarak tasarlanan, cilde nefes aldıran lokal (bölgesel) protezlerimizle, o travmatik izleri %100 kamufle ediyoruz. Sağlam saçlarınıza dokunmadan, sadece hasarlı bölgeyi kapatarak sizi o kötü anılardan kurtarıp eski görüntünüze kavuşturuyoruz.`,
+    Hair Maker olarak sunduğumuz "Medikal Protez Sistemleri", tam da bu noktada devreye girer. Kaza, yanık veya ameliyat izlerinin olduğu bölgeye özel olarak tasarlanan, cilde nefes aldıran lokal (bölgesel) protezlerimizle, o travmatik izleri %100 kamufle ediyoruz. Sağlam saçlarınıza dokunmadan, sadece hasarlı bölgeyi kapatarak sizi o kötü anılardan kurtarıp eski görüntünüze kavuşturuyoruz.`,
 
     features: [
       "Yanık, yara ve ameliyat izlerini (Skar dokusu) %100 kapatır.",
@@ -181,7 +181,7 @@ export const serviceDetails = {
     Bu hastalık sadece saçta değil; sakal, bıyık veya kaş gibi kıl yoğunluğu olan bölgelerde de görülebilir. Genellikle 20 yaş altı genç erişkinlerde ve çocuklarda daha sık rastlanır. Hastalığın en zor yanı "belirsizliği"dir. Dökülen bölgede saçlar kendiliğinden geri çıkabilir, dökülme durabilir veya tüm vücuda yayılabilir (Alopesi Universalis). Bu belirsizlik süreci, kişi üzerinde büyük bir sosyal baskı ve stres yaratır.`,
 
     // 2. KISIM (Çözüm ve Süreç)
-    desc2: `Hair Hotel olarak yaklaşımımız şudur: Tedavi süreciniz devam ederken veya iyileşmeyi beklerken, sosyal hayatınızdan kopmak zorunda değilsiniz. Saçkıran için uyguladığımız özel protez sistemler, dökülen bölgeleri estetik olarak kapatırken, alttan uygulanacak tıbbi tedavilere engel olmaz.
+    desc2: `Hair Maker olarak yaklaşımımız şudur: Tedavi süreciniz devam ederken veya iyileşmeyi beklerken, sosyal hayatınızdan kopmak zorunda değilsiniz. Saçkıran için uyguladığımız özel protez sistemler, dökülen bölgeleri estetik olarak kapatırken, alttan uygulanacak tıbbi tedavilere engel olmaz.
 
     Kullandığımız altyapılar şeffaf ve gözeneklidir; bu sayede doktorunuzun verdiği krem veya losyonları protezi çıkarmadan uygulayabilirsiniz. Ayrıca stres, bu hastalığın en büyük tetikleyicisidir. Protez saç sayesinde aynadaki görüntünüz düzeldiğinde, stres seviyeniz azalır ve bu da iyileşme sürecini dolaylı olarak hızlandırabilir. Hastalık iyileşip saçlarınız tekrar çıktığında, sistem kolayca çıkarılır.`,
 
@@ -207,7 +207,7 @@ export const serviceDetails = {
     Ancak unutulmamalıdır ki; bu dökülme %90 oranında geçicidir. Tedavi bittikten 3-6 ay sonra saçlarınız tekrar (bazen daha gür ve kıvırcık olarak) çıkacaktır. İşte bu geçiş döneminde, hastanın moralini yüksek tutmak, aynaya baktığında hastalığı değil, eski sağlıklı günlerini görmesini sağlamak iyileşme sürecinin en önemli parçasıdır. Peruklar genellikle kayma riski, terletme ve yapay görünüm nedeniyle hastayı daha çok tedirgin eder.`,
 
     // 2. KISIM (Çözüm, Radyoterapi ve Önlemler)
-    desc2: `Hair Hotel "Medikal Protez Serisi", kemoterapi hastalarının hassaslaşan cilt yapısına özel olarak üretilmiştir. "Vakum Sistemli" veya "Soft Base" (Yumuşak Altyapı) protezler, cilde zarar vermeden tutunur. Radyoterapi gören hastalarda ise durum biraz farklıdır; radyasyon sadece uygulandığı bölgedeki kılları etkiler ve yüksek dozlarda kalıcı kayıp olabilir. Bu durumlarda da protez saç kalıcı ve estetik bir çözüm sunar.
+    desc2: `Hair Maker "Medikal Protez Serisi", kemoterapi hastalarının hassaslaşan cilt yapısına özel olarak üretilmiştir. "Vakum Sistemli" veya "Soft Base" (Yumuşak Altyapı) protezler, cilde zarar vermeden tutunur. Radyoterapi gören hastalarda ise durum biraz farklıdır; radyasyon sadece uygulandığı bölgedeki kılları etkiler ve yüksek dozlarda kalıcı kayıp olabilir. Bu durumlarda da protez saç kalıcı ve estetik bir çözüm sunar.
 
     Tedavi sürecinde kafa derinizi güneşten ve soğuktan korumanız çok önemlidir. Protez sistemlerimiz, cildinizi UV ışınlarından koruyan bir kalkan görevi de görür. Tedaviniz bittiğinde ve saçlarınız tekrar çıkmaya başladığında, sistem uzmanlarımız tarafından nazikçe çıkarılır. Bu zorlu süreçte, en azından "saçım döküldü" kaygısını omzunuzdan alıyoruz.`,
 
@@ -233,7 +233,7 @@ export const serviceDetails = {
     // 2. KISIM (Kadın/Erkek Tipi Dökülme, Yanlış Uygulamalar ve Çözüm)
     desc2: `Erkek tipi dökülme (AGA) genellikle alın ve tepe bölgesinin açılmasıyla başlar; ense ve yanlar korunur. Bunun temel sebebi, saç köklerini küçülten "DHT" (Di Hidro Testosteron) hormonudur. Kadınlarda ise dökülme daha farklı seyreder; genellikle tepe bölgesinde seyrekleşme ve saç derisinin görünür hale gelmesi şeklinde olur. Kadınlarda kansızlık (anemi), ağır diyetler, östrojen azlığı ve saçı çok sıkı bağlamak (Traksiyonel Alopesi) dökülmeyi hızlandıran faktörlerdir.
 
-    Sebebi ne olursa olsun (Genetik, Yanık, Travma veya Bilinmeyen DUPA); eğer saç kökleriniz canlılığını yitirmişse, cerrahi yöntemler veya ilaçlar her zaman çözüm olmayabilir. Hair Hotel olarak sunduğumuz "Protez Saç Sistemleri", dökülme sebebinizden bağımsız olarak size %100 garantili ve estetik bir çözüm sunar. İlaçların yan etkisine maruz kalmadan, cerrahi bir operasyon geçirmeden, sadece birkaç saat içinde eski gür saçlarınıza kavuşabilirsiniz.`,
+    Sebebi ne olursa olsun (Genetik, Yanık, Travma veya Bilinmeyen DUPA); eğer saç kökleriniz canlılığını yitirmişse, cerrahi yöntemler veya ilaçlar her zaman çözüm olmayabilir. Hair Maker olarak sunduğumuz "Protez Saç Sistemleri", dökülme sebebinizden bağımsız olarak size %100 garantili ve estetik bir çözüm sunar. İlaçların yan etkisine maruz kalmadan, cerrahi bir operasyon geçirmeden, sadece birkaç saat içinde eski gür saçlarınıza kavuşabilirsiniz.`,
 
     features: [
       "Genetik (AGA), Hormonal veya Stres kaynaklı tüm dökülmelerde etkilidir.",
@@ -257,7 +257,7 @@ export const serviceDetails = {
     // 2. KISIM (Türleri, Belirtileri ve Çözüm)
     desc2: `Alopesinin farklı şekilleri vardır. En yaygını "Alopesi Areata" (Bölgesel Yama Dökülme) olsa da, saçlı derideki tüm saçın kaybedildiği "Alopesi Totalis" veya tüm vücut kıllarının döküldüğü "Alopesi Universalis" gibi daha ileri seviyeleri de mevcuttur. Tanı genellikle kafa derisinin klinik muayenesi veya biyopsi ile konulur.
 
-    Şu an için Alopesi'nin kesin bir tıbbi tedavisi (ilacı) bulunmamaktadır. Steroid iğneleri veya kremler denense de, sonuçlar garanti değildir. İşte bu noktada, Hair Hotel'in medikal protez sistemleri, hastanın "Kozmetik Kamuflaj" ihtiyacını %100 karşılar. Hastalıkla mücadele ederken aynaya baktığınızda saçsız bir kafa görmek zorunda değilsiniz. "Full Cap" (Tam Kaplama) veya bölgesel sistemlerimizle, saçlarınız tekrar çıkana kadar (veya kalıcı kayıplarda ömür boyu) doğal saç görünümüne kavuşursunuz.`,
+    Şu an için Alopesi'nin kesin bir tıbbi tedavisi (ilacı) bulunmamaktadır. Steroid iğneleri veya kremler denense de, sonuçlar garanti değildir. İşte bu noktada, Hair Maker'ın medikal protez sistemleri, hastanın "Kozmetik Kamuflaj" ihtiyacını %100 karşılar. Hastalıkla mücadele ederken aynaya baktığınızda saçsız bir kafa görmek zorunda değilsiniz. "Full Cap" (Tam Kaplama) veya bölgesel sistemlerimizle, saçlarınız tekrar çıkana kadar (veya kalıcı kayıplarda ömür boyu) doğal saç görünümüne kavuşursunuz.`,
 
     features: [
       "Alopesi Totalis (Tam Kellik) ve Universalis için tek estetik çözümdür.",
@@ -282,7 +282,7 @@ export const serviceDetails = {
     // 2. KISIM (Belirtiler ve İyileşme Süreci)
     desc2: `Saçkıran büyük oranda kendiliğinden düzelebilen bir hastalıktır. Ancak bu "kendiliğinden düzelme" süreci aylar, bazen yıllar sürebilir. Eğer hastalık tüm saçlı deriye yayılmışsa veya tırnak hastalıkları da eşlik ediyorsa iyileşme ihtimali düşer.
 
-    Bu belirsiz bekleme süresinde kişinin yaşadığı sosyal kaygı ve stres, hastalığı daha da kötüleştirebilir. Hair Hotel olarak sunduğumuz "Bölgesel Protez" çözümleri, tedaviye engel olmadan o boşlukları kapatır. Kullandığımız sistemler cilde nefes aldırır ve doktorunuzun verdiği ilaçları kullanmanıza mani olmaz.`,
+    Bu belirsiz bekleme süresinde kişinin yaşadığı sosyal kaygı ve stres, hastalığı daha da kötüleştirebilir. Hair Maker olarak sunduğumuz "Bölgesel Protez" çözümleri, tedaviye engel olmadan o boşlukları kapatır. Kullandığımız sistemler cilde nefes aldırır ve doktorunuzun verdiği ilaçları kullanmanıza mani olmaz.`,
 
     features: [
       "Genellikle bozuk para büyüklüğünde yama dökülmelerdir.",
@@ -331,7 +331,7 @@ export const serviceDetails = {
     // 2. KISIM (Bakım Önerileri ve Çözüm)
     desc2: `Tedavi sürecinde saç deriniz çok hassas olacağı için; parfümsüz bebek şampuanları kullanmalı, saç kurutma makinesi ve maşa gibi ısı kaynaklarından uzak durmalısınız. Ayrıca başınızı güneşten ve soğuktan korumak (şapka veya eşarp ile) enfeksiyon riskini azaltır.
 
-    Eğer yüksek doz radyasyon nedeniyle saçlarınız kalıcı olarak döküldüyse veya geçici süreçte estetik kaygınızı gidermek istiyorsanız; Hair Hotel'in "Medikal Protez" çözümleri en sağlıklı seçenektir. Hassas ciltler için özel üretilen yumuşak tabanlı protezlerimiz, ışın tedavisi gören cildi tahriş etmez, aksine UV ışınlarından koruyan bir kalkan görevi görür.`,
+    Eğer yüksek doz radyasyon nedeniyle saçlarınız kalıcı olarak döküldüyse veya geçici süreçte estetik kaygınızı gidermek istiyorsanız; Hair Maker'ın "Medikal Protez" çözümleri en sağlıklı seçenektir. Hassas ciltler için özel üretilen yumuşak tabanlı protezlerimiz, ışın tedavisi gören cildi tahriş etmez, aksine UV ışınlarından koruyan bir kalkan görevi görür.`,
 
     features: [
       "Sadece ışın alan bölgede (Lokal) dökülme yapar.",

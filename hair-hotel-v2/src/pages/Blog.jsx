@@ -58,7 +58,7 @@ const Blog = () => {
                 <div className="flex items-center text-gray-500 text-xs mb-4 space-x-2">
                   <span>📅 {post.date}</span>
                   <span>•</span>
-                  <span>Hair Hotel</span>
+                  <span>Hair Maker</span>
                 </div>
                 
                 <Link to={`/blog/${post.id}`}>

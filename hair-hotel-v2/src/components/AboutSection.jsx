@@ -21,7 +21,7 @@ const AboutSection = () => {
             {/* Resim */}
             <img 
               src="https://images.unsplash.com/photo-1503951914290-934c463ca989?q=80&w=2094&auto=format&fit=crop" 
-              alt="Hair Hotel Deneyimi" 
+              alt="Hair Maker Deneyimi" 
               className="relative z-10 w-full h-[500px] object-cover shadow-2xl grayscale hover:grayscale-0 transition-all duration-700"
             />
             
@@ -34,14 +34,14 @@ const AboutSection = () => {
 
           {/* SAĞ TARAF: YAZI VE MADDELER */}
           <div className="w-full md:w-1/2">
-            <span className="text-bronze text-sm font-bold tracking-[0.2em] uppercase">Hair Hotel Exclusive</span>
+            <span className="text-bronze text-sm font-bold tracking-[0.2em] uppercase">Hair Maker</span>
             <h2 className="text-3xl md:text-5xl font-bold text-white mt-4 mb-6 leading-tight">
               Sadece Saç Değil, <br />
               <span className="text-gray-500">Özgüven Tasarlıyoruz.</span>
             </h2>
             
             <p className="text-gray-400 text-lg leading-relaxed mb-8">
-              Klasik protez saç uygulamalarını unutun. Hair Hotel olarak, yüz hattınıza, saç yapınıza ve yaşam tarzınıza en uygun tasarımı yaparak, aynalarla barışmanızı sağlıyoruz. Bizim için başarı, saçınızın protez olduğunun anlaşılmamasıdır.
+              Klasik protez saç uygulamalarını unutun. Hair Maker olarak, yüz hattınıza, saç yapınıza ve yaşam tarzınıza en uygun tasarımı yaparak, aynalarla barışmanızı sağlıyoruz. Bizim için başarı, saçınızın protez olduğunun anlaşılmamasıdır.
             </p>
 
             {/* Özellik Listesi (Tik İşaretli) */}

@@ -12,10 +12,9 @@ const Footer = () => {
           <div>
             <Link to="/" className="block mb-6">
               <div className="text-2xl font-bold tracking-[0.2em] text-white uppercase">
-                Hair <span className="text-bronze">Hotel</span>
+                Hair <span className="text-bronze">Maker</span>
               </div>
               <div className="text-[8px] tracking-[0.4em] text-gray-500 uppercase mt-1">
-                Exclusive
               </div>
             </Link>
             <p className="text-sm leading-relaxed mb-6 text-gray-500">
@@ -68,7 +67,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center">
                 <span className="text-bronze mr-3 text-lg">📞</span>
-                <a href="tel:+905330000000" className="hover:text-white transition-colors">0(533) 000 00 00</a>
+                <a href="tel:+905016493435" className="hover:text-white transition-colors">0(501) 649 34 35</a>
               </li>
               <li className="flex items-center">
                 <span className="text-bronze mr-3 text-lg">✉️</span>
@@ -84,7 +83,7 @@ const Footer = () => {
           
           {/* Sol Taraf: Copyright + İmza */}
           <div className="flex flex-col md:flex-row items-center gap-2 mb-4 md:mb-0">
-            <p>&copy; 2025 Hair Hotel. Tüm hakları saklıdır.</p>
+            <p>&copy; 2025 Hair Maker. Tüm hakları saklıdır.</p>
             <span className="hidden md:block">|</span>
             <div className="flex items-center gap-1">
               <span>Developed by</span>

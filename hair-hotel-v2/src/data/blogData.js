@@ -73,7 +73,7 @@ export const blogPosts = [
     content: `Kanser tedavisi zorlu bir yolculuktur ve bu süreçte hastaların moralini en çok bozan durumlardan biri saç dökülmesidir. Kemoterapi ilaçları vücuttaki hızlı bölünen hücreleri hedef aldığı için saç köklerini de etkiler. Ancak unutmayın: Bu dökülme geçicidir. Tedaviniz bittiğinde saçlarınız geri gelecektir. Bizim amacımız, o geçiş döneminde aynalarla küsmenizi engellemek.
 
     Neden Peruk Değil de Protez?
-    Klasik peruklar genellikle sentetiktir, parlama yapar ve en kötüsü "Kayma" riski taşır. Bu durum hastada sürekli "Ya düşerse?" tedirginliği yaratır. Hair Hotel'in medikal protezleri ise, hassaslaşan kafa derisine uygun "Vakumlu" veya "Soft Base" altyapılarla üretilir. Cilde sabitlenir, siz istemedikçe çıkmaz.
+    Klasik peruklar genellikle sentetiktir, parlama yapar ve en kötüsü "Kayma" riski taşır. Bu durum hastada sürekli "Ya düşerse?" tedirginliği yaratır. Hair Maker'ın medikal protezleri ise, hassaslaşan kafa derisine uygun "Vakumlu" veya "Soft Base" altyapılarla üretilir. Cilde sabitlenir, siz istemedikçe çıkmaz.
 
     Cilt Sağlığı ve Psikolojik Destek
     Medikal protezler %100 insan saçından üretildiği için fön çekebilir, şekil verebilirsiniz. Hastalarımızda gözlemlediğimiz en büyük etki, protez saç uygulaması sonrası moralin yükselmesi ve bunun tedavi sürecine pozitif yansımasıdır. Kendinizi "hasta" gibi değil, "bakımlı" hissetmeniz bağışıklık sisteminiz için de bir destektir.`
@@ -109,6 +109,6 @@ export const blogPosts = [
     Doğal saç tek bir yöne doğru çıkmaz, dağılır. Kaliteli protezlerde saçlar "Free Style" (Serbest Stil) ekilir. Yani saçınızı ister sağa, ister sola, ister geriye tarayabilirsiniz. Ayrıca %100 Remy insan saçı kullanılması, saçın dolaşmaması ve doğal salınımı için şarttır.
 
     3. Altyapı İnceliği
-    "New Generation" dediğimiz altyapılar o kadar incedir ki (0.03mm), dokunduğunuzda parmağınızla kafa derinizi hissedersiniz. Kalın ve kaba altyapılar hem terletir hem de "ben buradayım" diye bağırır. Hair Hotel olarak sadece en üst segment, tespit edilemeyen altyapılar kullanıyoruz.`
+    "New Generation" dediğimiz altyapılar o kadar incedir ki (0.03mm), dokunduğunuzda parmağınızla kafa derinizi hissedersiniz. Kalın ve kaba altyapılar hem terletir hem de "ben buradayım" diye bağırır. Hair Maker olarak sadece en üst segment, tespit edilemeyen altyapılar kullanıyoruz.`
   }
 ];
