@@ -144,15 +144,227 @@ export const serviceDetails = {
       "Uygulama sonrası istediğiniz model (uzun/kısa) kesim yapılır."
     ]
   },
-  "kemoterapi-sac-dokulmesi": {
-    title: "Medikal Çözümler (Kemoterapi & Alopesi)",
+  // --- KAZA VE TRAVMA SONUCU DÖKÜLMELER ---
+  "kaza-sonucu-dokulmeler": {
+    title: "Kaza ve Travma Sonucu Saç Kayıpları",
     image: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=1887&auto=format&fit=crop",
-    description: "Tedavi sürecinde moral en önemli ilaçtır. Kemoterapi veya Alopesi kaynaklı dökülmelerde, cildinize zarar vermeyen 'Vakum' teknolojili medikal protez sistemleri uyguluyoruz.",
+    
+    // 1. KISIM (Bilimsel Arkaplan ve Telogen Effluvium)
+    desc1: `Saç dökülmesi her zaman genetik değildir; bazen vücudun yaşadığı büyük bir şok veya travma, saç köklerini erkenden "dinlenme" fazına iter. Normal şartlarda günde yaklaşık 100 tel saç dökülmesi, sağlıklı bir saç döngüsünün parçasıdır. Ancak "Telogen Effluvium" adı verilen durumda, yaşanan fiziksel veya psikolojik bir travmadan (şoktan) yaklaşık 2-3 ay sonra saçların %70'e varan kısmı aniden dökülmeye başlar. Bu durum, kademeli genetik dökülmeden farklıdır; çok daha hızlı ve dramatik seyreder.
+
+    Özellikle trafik kazaları, büyük cerrahi operasyonlar, yüksek ateşli hastalıklar veya ciddi yanık vakaları, vücudun "alarm durumuna" geçmesine neden olur. Vücut şoka girdiğinde, hayati organları korumak için dolaşım sistemini yeniden düzenler ve bu süreçte saç köklerine giden besin ve kan akışı geçici olarak azalabilir. İşte bu "biyolojik şok", saçların büyüme evresini durdurup dökülme evresini başlatır.`,
+
+    // 2. KISIM (Kalıcı Hasarlar ve Çözüm)
+    desc2: `Fiziksel travmaların (yanık, kesik, ameliyat izi) neden olduğu dökülmelerde ise durum daha farklıdır. Eğer kaza sonucunda saçlı derideki doku hasar görmüşse (Skar dokusu oluşmuşsa), o bölgedeki saç kökleri ölmüş olabilir ve bir daha doğal yolla saç çıkışı gerçekleşmeyebilir. Saç ekimi de, hasarlı dokunun kan dolaşımı zayıf olduğu için bu tür vakalarda her zaman istenen sonucu vermeyebilir.
+
+    Hair Hotel olarak sunduğumuz "Medikal Protez Sistemleri", tam da bu noktada devreye girer. Kaza, yanık veya ameliyat izlerinin olduğu bölgeye özel olarak tasarlanan, cilde nefes aldıran lokal (bölgesel) protezlerimizle, o travmatik izleri %100 kamufle ediyoruz. Sağlam saçlarınıza dokunmadan, sadece hasarlı bölgeyi kapatarak sizi o kötü anılardan kurtarıp eski görüntünüze kavuşturuyoruz.`,
+
     features: [
-      "Yapıştırıcı kullanılmadan vakum sistemiyle tutunur.",
-      "Hassas ciltler için antialerjiktir.",
-      "Tedavi sonrası saçlarınız çıktığında kolayca çıkarılır.",
-      "SGK destekli raporlu hastalara özel indirimler."
+      "Yanık, yara ve ameliyat izlerini (Skar dokusu) %100 kapatır.",
+      "Vücudun yaşadığı travma sonrası oluşan bölgesel açıklıkları örter.",
+      "Sadece hasarlı bölgeye lokal uygulama yapılır, sağlam saçlar korunur.",
+      "Cildin nefes almasını sağlayan medikal altyapı kullanılır.",
+      "Psikolojik iyileşme sürecine büyük katkı sağlar.",
+      "Deniz, havuz ve spor aktivitelerine engel değildir."
+    ]
+  },
+
+
+  // --- SAÇKIRAN (ALOPESİ AREATA) ---
+  "sackiran-nedir": {
+    title: "Saçkıran (Alopesi Areata) Nedir?",
+    image: "https://images.unsplash.com/photo-1635373670332-43ea883bb081?q=80&w=2181&auto=format&fit=crop",
+    
+    // 1. KISIM (Tanım ve Nedenleri)
+    desc1: `Halk arasında "Saçkıran" olarak bilinen Alopesi Areata; sebebi henüz bilimsel açıdan tam olarak netleşmemiş olsa da, bağışıklık sisteminin kendi saç köklerine saldırması sonucu ortaya çıkan bir durumdur. Genellikle yoğun stres, travma, guatr veya anemi (kansızlık) gibi faktörlerin tetiklediği düşünülmektedir. Saçkıran, saçlı deri üzerinde aniden ortaya çıkan, genellikle bozuk para büyüklüğünde, yama şeklindeki dökülmelerle kendini gösterir.
+
+    Bu hastalık sadece saçta değil; sakal, bıyık veya kaş gibi kıl yoğunluğu olan bölgelerde de görülebilir. Genellikle 20 yaş altı genç erişkinlerde ve çocuklarda daha sık rastlanır. Hastalığın en zor yanı "belirsizliği"dir. Dökülen bölgede saçlar kendiliğinden geri çıkabilir, dökülme durabilir veya tüm vücuda yayılabilir (Alopesi Universalis). Bu belirsizlik süreci, kişi üzerinde büyük bir sosyal baskı ve stres yaratır.`,
+
+    // 2. KISIM (Çözüm ve Süreç)
+    desc2: `Hair Hotel olarak yaklaşımımız şudur: Tedavi süreciniz devam ederken veya iyileşmeyi beklerken, sosyal hayatınızdan kopmak zorunda değilsiniz. Saçkıran için uyguladığımız özel protez sistemler, dökülen bölgeleri estetik olarak kapatırken, alttan uygulanacak tıbbi tedavilere engel olmaz.
+
+    Kullandığımız altyapılar şeffaf ve gözeneklidir; bu sayede doktorunuzun verdiği krem veya losyonları protezi çıkarmadan uygulayabilirsiniz. Ayrıca stres, bu hastalığın en büyük tetikleyicisidir. Protez saç sayesinde aynadaki görüntünüz düzeldiğinde, stres seviyeniz azalır ve bu da iyileşme sürecini dolaylı olarak hızlandırabilir. Hastalık iyileşip saçlarınız tekrar çıktığında, sistem kolayca çıkarılır.`,
+
+    features: [
+      "Tedavi sürecine engel olmaz, ilaç kullanımına uygundur.",
+      "Mevcut saçlar kazıtılmadan sadece boşluklara (yama) uygulanabilir.",
+      "Stres faktörünü azalttığı için iyileşmeyi hızlandırabilir.",
+      "Anlık bir çözümdür, bekleme süresi yoktur.",
+      "Saçlar geri çıktığında sistem kolayca çıkarılır.",
+      "Dışarıdan bakıldığında yama şeklindeki dökülmeler görünmez."
+    ]
+  },
+
+
+  // --- KEMOTERAPİ VE RADYOTERAPİ ---
+  "kemoterapi-sac-dokulmesi": {
+    title: "Kemoterapi ve Radyoterapi Kaynaklı Dökülmeler",
+    image: "https://images.unsplash.com/photo-1579684385127-1ef15d508118?q=80&w=2080&auto=format&fit=crop",
+    
+    // 1. KISIM (Kemoterapi Etkisi ve Süreç)
+    desc1: `Kanser tedavisi zorlu bir süreçtir ve kullanılan güçlü ilaçlar (Kemoterapi), sadece kanserli hücrelere değil, vücuttaki hızlı bölünen diğer hücrelere, yani saç köklerine de saldırır. Bu durum, tedavinin başlamasından 2-4 hafta sonra saçların, kaşların ve kirpiklerin dökülmesine neden olabilir. Saç dökülmesi, hastalar için tedavinin en moral bozucu yan etkilerinden biri olarak bildirilir.
+
+    Ancak unutulmamalıdır ki; bu dökülme %90 oranında geçicidir. Tedavi bittikten 3-6 ay sonra saçlarınız tekrar (bazen daha gür ve kıvırcık olarak) çıkacaktır. İşte bu geçiş döneminde, hastanın moralini yüksek tutmak, aynaya baktığında hastalığı değil, eski sağlıklı günlerini görmesini sağlamak iyileşme sürecinin en önemli parçasıdır. Peruklar genellikle kayma riski, terletme ve yapay görünüm nedeniyle hastayı daha çok tedirgin eder.`,
+
+    // 2. KISIM (Çözüm, Radyoterapi ve Önlemler)
+    desc2: `Hair Hotel "Medikal Protez Serisi", kemoterapi hastalarının hassaslaşan cilt yapısına özel olarak üretilmiştir. "Vakum Sistemli" veya "Soft Base" (Yumuşak Altyapı) protezler, cilde zarar vermeden tutunur. Radyoterapi gören hastalarda ise durum biraz farklıdır; radyasyon sadece uygulandığı bölgedeki kılları etkiler ve yüksek dozlarda kalıcı kayıp olabilir. Bu durumlarda da protez saç kalıcı ve estetik bir çözüm sunar.
+
+    Tedavi sürecinde kafa derinizi güneşten ve soğuktan korumanız çok önemlidir. Protez sistemlerimiz, cildinizi UV ışınlarından koruyan bir kalkan görevi de görür. Tedaviniz bittiğinde ve saçlarınız tekrar çıkmaya başladığında, sistem uzmanlarımız tarafından nazikçe çıkarılır. Bu zorlu süreçte, en azından "saçım döküldü" kaygısını omzunuzdan alıyoruz.`,
+
+    features: [
+      "Hassas ciltler için özel 'Soft Base' (Yumuşak Altyapı) kullanılır.",
+      "Moral ve motivasyonu yüksek tutarak iyileşmeye destek olur.",
+      "Peruk gibi kafayı sıkmaz, terletmez ve kayma yapmaz.",
+      "Vakumlu sistemler sayesinde yapıştırıcıya gerek kalmadan tutunabilir.",
+      "Tedavi bitip saçlar uzayana kadar geçici ve konforlu bir çözümdür.",
+      "Kaş ve kirpik dökülmeleri için de destekleyici çözümler sunulur."
+    ]
+  },
+  // --- GENEL SAÇ DÖKÜLMESİ VE ÇÖZÜMLERİ ---
+  "sac-dokulmesi-ve-cozumleri": {
+    title: "Saç Dökülmesi Nedenleri ve Çözümleri",
+    image: "https://images.unsplash.com/photo-1552693673-1bf958298935?q=80&w=2073&auto=format&fit=crop",
+    
+    // 1. KISIM (Tanım, Genetik, Stres ve İlaçlar)
+    desc1: `Tıptaki adıyla "Alopesi" olarak bilinen saç dökülmesi; saçların normal döngüsü dışında, belirli periyotlar olmaksızın dökülmesi ve yerine yenisinin gelmemesi durumudur. Günde ortalama 100 tel saç dökülmesi normal kabul edilirken, bu sayının üzerindeki kayıplar bir dermatolog kontrolü gerektirebilir. Saç dökülmesinin altında yatan sebep; genetik, hormonal, stres kaynaklı veya yanlış beslenme olabilir. Doğru teşhis, doğru çözümün ilk adımıdır.
+
+    En sık karşılaşılan dökülme tipi, genetiğimize bağlı olan "Androgenetik Alopesi"dir (AGA). Erkeklerde %95 oranında görülen bu durum, aileden gelen genetik yatkınlıkla (baba, dayı, amca vb.) tetiklenir. Ancak saç dökülmesi sadece genetik değildir. "Alopesi Areata" (Saçkıran) gibi stres kaynaklı bölgesel dökülmeler, kullanılan ağır ilaçlar (Kemoterapi, antidepresanlar vb.) veya hormonal dengesizlikler (Guatr, Hamilelik, Menopoz) de saç kaybının ana nedenleri arasındadır.`,
+
+    // 2. KISIM (Kadın/Erkek Tipi Dökülme, Yanlış Uygulamalar ve Çözüm)
+    desc2: `Erkek tipi dökülme (AGA) genellikle alın ve tepe bölgesinin açılmasıyla başlar; ense ve yanlar korunur. Bunun temel sebebi, saç köklerini küçülten "DHT" (Di Hidro Testosteron) hormonudur. Kadınlarda ise dökülme daha farklı seyreder; genellikle tepe bölgesinde seyrekleşme ve saç derisinin görünür hale gelmesi şeklinde olur. Kadınlarda kansızlık (anemi), ağır diyetler, östrojen azlığı ve saçı çok sıkı bağlamak (Traksiyonel Alopesi) dökülmeyi hızlandıran faktörlerdir.
+
+    Sebebi ne olursa olsun (Genetik, Yanık, Travma veya Bilinmeyen DUPA); eğer saç kökleriniz canlılığını yitirmişse, cerrahi yöntemler veya ilaçlar her zaman çözüm olmayabilir. Hair Hotel olarak sunduğumuz "Protez Saç Sistemleri", dökülme sebebinizden bağımsız olarak size %100 garantili ve estetik bir çözüm sunar. İlaçların yan etkisine maruz kalmadan, cerrahi bir operasyon geçirmeden, sadece birkaç saat içinde eski gür saçlarınıza kavuşabilirsiniz.`,
+
+    features: [
+      "Genetik (AGA), Hormonal veya Stres kaynaklı tüm dökülmelerde etkilidir.",
+      "Kemoterapi ve Radyoterapi sonrası geçici kayıpları kamufle eder.",
+      "Yanık ve yara izlerinin (Skar dokusu) kapatılmasında tek çözümdür.",
+      "Erkeklerde tepe açılması, kadınlarda genel seyrekleşme için idealdir.",
+      "Yanlış beslenme veya ağır diyet sonucu oluşan kayıpları örter.",
+      "Cerrahi risk ve bekleme süresi olmadan anında değişim sağlar."
+    ]
+  },
+  // --- ALOPESİ (GENEL BİLGİ VE TÜRLERİ) ---
+  "alopesi": {
+    title: "Alopesi (Kalıcı Saç Kaybı) ve Çözümleri",
+    image: "https://images.unsplash.com/photo-1552693673-1bf958298935?q=80&w=2073&auto=format&fit=crop",
+    
+    // 1. KISIM (Tıbbi Tanım, Bağışıklık Sistemi ve Nedenleri)
+    desc1: `Alopesi, bağışıklık sisteminin (Otoimmünite) bir anormallik sonucu kendi vücuduna, özellikle de saç foliküllerine saldırmasıyla gelişen, saçların yama halinde veya tamamen dökülmesine neden olan bir hastalıktır. Vücut, kendi saç kökünü "yabancı madde" gibi algılar ve ona saldırarak büyümesini durdurur. Bu durum sadece saç derisinde değil, vücudun diğer kıllı bölgelerinde de aniden ortaya çıkabilir. Alopesi bulaşıcı değildir ancak kişinin psikolojik dünyasında derin izler bırakır.
+
+    Şu anki bilimsel kanıtlar, hastalığın genetik bir yatkınlıkla veya stres, travma gibi dış etkenlerle tetiklendiğini göstermektedir. Alopesi bazen Tiroid, Vitiligo, Lupus veya Romatoid Artrit gibi diğer otoimmün hastalıklarla birlikte görülebilir. Hastalık genellikle 30-60 yaş arası yetişkinlerde sık görülse de, nadiren çocukları da etkileyebilir. Saçların tekrar çıkıp çıkmayacağı veya dökülmenin boyutu kişiden kişiye değişen belirsiz bir süreçtir.`,
+
+    // 2. KISIM (Türleri, Belirtileri ve Çözüm)
+    desc2: `Alopesinin farklı şekilleri vardır. En yaygını "Alopesi Areata" (Bölgesel Yama Dökülme) olsa da, saçlı derideki tüm saçın kaybedildiği "Alopesi Totalis" veya tüm vücut kıllarının döküldüğü "Alopesi Universalis" gibi daha ileri seviyeleri de mevcuttur. Tanı genellikle kafa derisinin klinik muayenesi veya biyopsi ile konulur.
+
+    Şu an için Alopesi'nin kesin bir tıbbi tedavisi (ilacı) bulunmamaktadır. Steroid iğneleri veya kremler denense de, sonuçlar garanti değildir. İşte bu noktada, Hair Hotel'in medikal protez sistemleri, hastanın "Kozmetik Kamuflaj" ihtiyacını %100 karşılar. Hastalıkla mücadele ederken aynaya baktığınızda saçsız bir kafa görmek zorunda değilsiniz. "Full Cap" (Tam Kaplama) veya bölgesel sistemlerimizle, saçlarınız tekrar çıkana kadar (veya kalıcı kayıplarda ömür boyu) doğal saç görünümüne kavuşursunuz.`,
+
+    features: [
+      "Alopesi Totalis (Tam Kellik) ve Universalis için tek estetik çözümdür.",
+      "Bağışıklık sistemi hastalığı olduğu için bulaşıcı değildir.",
+      "Saç ekiminin imkansız olduğu (donör olmadığı) durumlarda uygulanır.",
+      "Vakumlu altyapı sayesinde kaş ve kirpik desteği de sağlanabilir.",
+      "Tıbbi tedavi bulunmadığı için en etkili moral kaynağı protezdir.",
+      "Stres faktörünü azalttığı için hastalığın seyrini olumlu etkileyebilir."
+    ]
+  },
+
+  // --- SAÇKIRAN NEDİR? (Alopesi Areata) ---
+  "sackiran-nedir": {
+    title: "Saçkıran (Alopesi Areata) Nedir?",
+    image: "https://images.unsplash.com/photo-1635373670332-43ea883bb081?q=80&w=2181&auto=format&fit=crop",
+    
+    // 1. KISIM (Halk Arasında Bilinen Adı ve Stres Faktörü)
+    desc1: `Halk arasında "Saçkıran" olarak bilinen Alopesi Areata; stresin önemli bir tetikleyici olduğu düşünülse de, sebebi bilimsel olarak tam izah edilememiş, vücudun kıllı bölgelerinde kökten kıl kaybı yaşanmasına neden olan bir hastalıktır. Bıyık, sakal ve kaşlarda da görülebilse de, en sık saçlı deride "bozuk para" büyüklüğünde, yuvarlak yama şeklinde dökülmelerle kendini gösterir.
+
+    Saçkıran genellikle 20 yaş altı gençlerde ve çocuklarda daha sık görülür. Kadınlarda da rastlanmasına rağmen, erkeklerde kıl yoğunluğu daha fazla olduğu için erkeklerde görülme sıklığı daha yüksektir. Hastalığın en büyük tetikleyicisi stres, üzüntü ve travmadır; ancak genetik yatkınlık (ailede olması), guatr veya anemi gibi faktörler de rol oynayabilir.`,
+
+    // 2. KISIM (Belirtiler ve İyileşme Süreci)
+    desc2: `Saçkıran büyük oranda kendiliğinden düzelebilen bir hastalıktır. Ancak bu "kendiliğinden düzelme" süreci aylar, bazen yıllar sürebilir. Eğer hastalık tüm saçlı deriye yayılmışsa veya tırnak hastalıkları da eşlik ediyorsa iyileşme ihtimali düşer.
+
+    Bu belirsiz bekleme süresinde kişinin yaşadığı sosyal kaygı ve stres, hastalığı daha da kötüleştirebilir. Hair Hotel olarak sunduğumuz "Bölgesel Protez" çözümleri, tedaviye engel olmadan o boşlukları kapatır. Kullandığımız sistemler cilde nefes aldırır ve doktorunuzun verdiği ilaçları kullanmanıza mani olmaz.`,
+
+    features: [
+      "Genellikle bozuk para büyüklüğünde yama dökülmelerdir.",
+      "Stres ve travma en büyük tetikleyicidir.",
+      "Çoğunlukla 20 yaş altı gençlerde görülür.",
+      "Bölgesel protez ile tedavi süresince kamufle edilebilir.",
+      "İlaç tedavisine engel değildir.",
+      "Kendiliğinden geçmesi beklenebilir ancak süre belirsizdir."
+    ]
+  },
+
+  // --- SAÇKIRAN TEDAVİSİ (YENİ BÖLÜM) ---
+  "sac-kiran-tedavisi": {
+    title: "Saçkıran Tedavi Yöntemleri",
+    image: "https://images.unsplash.com/photo-1579684385127-1ef15d508118?q=80&w=2080&auto=format&fit=crop",
+    
+    // 1. KISIM (İlaçlar: DPCP ve SADBE)
+    desc1: `Saçkıran hastalığının nedeni tam belirlenemediği için, kesin bir "iyileştirici hapı" yoktur. Ancak dermatologlar tarafından "Majistral İlaç" (Eczacıların hazırladığı karışım) kategorisinde iki temel madde kullanılır: DPCP (Di Phen Ci Pron) ve SADBE (Suquarik Asit Di Butil Ester).
+
+    Her iki ilacın prensibi aynıdır ancak SADBE'nin başarı oranı DPCP'ye göre daha yüksektir. Ayrıca DPCP'nin vücudun genetik yapısında değişikliğe (Mutajenik etki) sebep olma riski bulunduğu için, özellikle çocuklarda SADBE daha güvenli bir tercihtir. Bu ilaçlar hastalığın saç köküne verdiği zararı engelleyerek kökten iyileşme sağlamayı hedefler. Ancak bu maddeler oldukça pahalıdır ve her eczanede bulunmaz.`,
+
+    // 2. KISIM (Geleneksel Yöntemler ve Başarı Oranı)
+    desc2: `Sarımsak sürmek, jiletle kazımak veya kortizon enjeksiyonu gibi geleneksel yöntemler de halk arasında yaygındır. Ancak sarımsağın cildi tahriş etme riski ve kortizonun yan etkileri göz önüne alındığında, SADBE ve DPCP gibi modern ilaçların başarı oranı çok daha yüksektir.
+
+    Unutulmamalıdır ki tedavinin başarısı; hastalığın yaşına (ne zaman başladığına) ve yaygınlığına bağlıdır. 3 yıldan eski vakalarda ilaçların etkisi azalabilir. Bu tür "dirençli" vakalarda veya ilaç tedavisinin sonuç vermediği durumlarda, en sağlıklı ve estetik çözüm Medikal Protez Saç uygulamasıdır.`,
+
+    features: [
+      "Kesin bir ilacı yoktur, Majistral (karışım) ilaçlar kullanılır.",
+      "SADBE, yan etkisi az olduğu için çocuklarda daha güvenlidir.",
+      "Sarımsak sürmek cildi tahriş edebilir, dikkatli olunmalıdır.",
+      "Tedavi başarısı hastalığın ne kadar yeni olduğuna bağlıdır.",
+      "İlaçların etki etmediği durumlarda protez saç kesin çözümdür.",
+      "Tedavi süreci sabır gerektirir."
+    ]
+  },
+  // --- RADYOTERAPİ SAÇ DÖKÜLMESİ ---
+  "radyoterapi-sac-dokulmesi": {
+    title: "Radyoterapi Kaynaklı Saç Dökülmesi",
+    image: "https://images.unsplash.com/photo-1579165466741-7f35e4755652?q=80&w=2079&auto=format&fit=crop",
+    
+    // 1. KISIM (Etki Mekanizması ve Süreç)
+    desc1: `Radyoterapi (Işın Tedavisi), kanserli hücreleri yok etmek için yüksek enerjili dalgaların kullanıldığı bir yöntemdir. Kemoterapiden en büyük farkı; kemoterapi tüm vücuttaki kılları dökerken, radyoterapi sadece ışın uygulanan bölgedeki kılları etkiler. Örneğin sadece baş bölgesine ışın alıyorsanız saçlarınız dökülür; kol veya bacak kıllarınız etkilenmez.
+
+    Saç kökleri radyasyona karşı çok duyarlıdır. Genellikle tedavi başladıktan 2-3 hafta sonra, ışın alan bölgede dökülme başlar. Ciltte güneş yanığına benzer bir hassasiyet, kuruluk ve kaşıntı görülebilir. Dökülmenin geçici mi yoksa kalıcı mı olacağı, alınan radyasyonun toplam dozuna bağlıdır. Düşük dozlarda tedavi bittikten 3-6 ay sonra saçlar geri gelirken, yüksek dozlarda kökler kalıcı hasar görebilir ve o bölgede tekrar saç çıkmayabilir.`,
+
+    // 2. KISIM (Bakım Önerileri ve Çözüm)
+    desc2: `Tedavi sürecinde saç deriniz çok hassas olacağı için; parfümsüz bebek şampuanları kullanmalı, saç kurutma makinesi ve maşa gibi ısı kaynaklarından uzak durmalısınız. Ayrıca başınızı güneşten ve soğuktan korumak (şapka veya eşarp ile) enfeksiyon riskini azaltır.
+
+    Eğer yüksek doz radyasyon nedeniyle saçlarınız kalıcı olarak döküldüyse veya geçici süreçte estetik kaygınızı gidermek istiyorsanız; Hair Hotel'in "Medikal Protez" çözümleri en sağlıklı seçenektir. Hassas ciltler için özel üretilen yumuşak tabanlı protezlerimiz, ışın tedavisi gören cildi tahriş etmez, aksine UV ışınlarından koruyan bir kalkan görevi görür.`,
+
+    features: [
+      "Sadece ışın alan bölgede (Lokal) dökülme yapar.",
+      "Yüksek doz radyasyonda dökülme kalıcı olabilir.",
+      "Ciltte hassasiyet ve kuruluk yapabilir, özel bakım gerekir.",
+      "Medikal protez, hassas cildi güneşten korur.",
+      "Tedavi sürecinde moral desteği sağlar.",
+      "Antialerjik yapıştırıcılar ile güvenle uygulanır."
+    ]
+  },
+
+  // --- ANDROGENETİK SAÇ DÖKÜLMESİ (AGA) ---
+  "androgenetik-sac-dokulmesi": {
+    title: "Androgenetik Alopesi (Genetik Dökülme)",
+    image: "https://images.unsplash.com/photo-1559599101-f09722fb4948?q=80&w=2069&auto=format&fit=crop",
+    
+    // 1. KISIM (Tanım, DHT Hormonu ve Erkek Tipi)
+    desc1: `Tıp dilinde "Androgenetik Alopesi" (AGA) olarak adlandırılan durum, halk arasında "Erkek Tipi Dökülme" veya "Irsî Dökülme" olarak bilinir. Hem erkeklerde hem de kadınlarda görülen saç kayıplarının en yaygın nedenidir. Bu durumun temel sorumlusu genetik yatkınlık ve "DHT" (Di Hidro Testosteron) hormonudur. DHT hormonu, genetik olarak kodlanmış saç köklerine saldırarak onların büyüme evresini kısaltır, kökleri minyatürleştirir (küçültür) ve sonunda tamamen yok eder.
+
+    Erkeklerde bu süreç genellikle ergenlik sonrası başlar; önce şakaklar açılır (M harfi şekli), sonra tepe bölgesi seyrelir ve nihayetinde iki bölge birleşerek kellik oluşur. Ense ve kulak üstü saçları ise DHT'ye dirençli olduğu için genellikle dökülmez.`,
+
+    // 2. KISIM (Kadın Tipi ve Çözüm)
+    desc2: `Sanılanın aksine Androgenetik Alopesi kadınları da etkiler. Ancak kadınlardaki dökülme şekli erkeklerden farklıdır. Ön saç çizgisi genellikle korunur ancak tepe bölgesindeki saçlar diffüz (yaygın) bir şekilde incelir ve seyrekleşir. Saç derisi görünür hale gelir. Menopoz, polikistik over sendromu gibi hormonal değişimler bu süreci hızlandırabilir.
+
+    Genetik dökülmelerde saç ekimi bir seçenektir ancak donör alanın (ense) yetersiz olduğu durumlarda veya kadın tipi yaygın dökülmelerde ekim istenen yoğunluğu veremez. Bu noktada Protez Saç, genetik kaderinize boyun eğmemeniz için en kesin çözümdür. Mevcut saçlarınız korunarak, sadece seyrekleşen bölgelere yapılan "Sıklaştırma" veya tam kellik durumunda "Full Protez" uygulaması ile genetik dökülmeyi %100 kamufle ediyoruz.`,
+
+    features: [
+      "Erkeklerde ve kadınlarda en sık görülen dökülme türüdür.",
+      "Sebebi genetik miras ve DHT hormonudur.",
+      "Erkeklerde şakak/tepe açılması, kadınlarda genel seyrelme yapar.",
+      "Saç ekiminin yetersiz kaldığı durumlarda protez kesin çözümdür.",
+      "Mevcut saçları koruyarak aralara sıklaştırma yapılabilir.",
+      "Kalıcı ve ilerleyici bir durumdur, kendiliğinden geçmez."
     ]
   },
   // Diğer linkler için varsayılan içerik (Hata vermemesi için)
