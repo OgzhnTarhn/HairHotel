@@ -1,7 +1,7 @@
 import { Routes, Route, useLocation } from 'react-router-dom';
 import { useEffect } from 'react';
 
-// Bileşenler
+// Bileşenler (Sabit Parçalar)
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 
@@ -9,9 +9,10 @@ import Footer from './components/Footer';
 import Home from './pages/Home';
 import ServiceDetail from './pages/ServiceDetail';
 import Gallery from './pages/Gallery';
+import Blog from './pages/Blog'; // <--- BLOG SAYFASI EKLENDİ
 import Contact from './pages/Contact';
 
-// Sayfa değişince ekranı en üste kaydıran sihirli kod
+// Sayfa değişince ekranı otomatik en üste kaydıran kod
 const ScrollToTop = () => {
   const { pathname } = useLocation();
 
@@ -28,6 +29,7 @@ function App() {
       {/* Sayfa geçişlerinde yukarı atma fonksiyonu */}
       <ScrollToTop />
       
+      {/* Menü her sayfada sabit */}
       <Navbar />
       
       <main>
@@ -35,20 +37,21 @@ function App() {
           {/* ANASAYFA */}
           <Route path="/" element={<Home />} />
           
-          {/* HİZMET DETAYLARI (Erkek, Kadın, Nedir vs.) */}
+          {/* HİZMET DETAYLARI (Erkek, Kadın, Nedir vs. Dinamik Yapı) */}
           <Route path="/hizmet/:slug" element={<ServiceDetail />} />
           
           {/* GALERİ SAYFASI */}
           <Route path="/galeri" element={<Gallery />} />
           
+          {/* BLOG SAYFASI */}
+          <Route path="/blog" element={<Blog />} />
+          
           {/* İLETİŞİM SAYFASI */}
           <Route path="/iletisim" element={<Contact />} />
-          
-          {/* BLOG (Henüz yapmadık, hata vermesin diye geçici yazı koydum) */}
-          <Route path="/blog" element={<div className="pt-40 text-center pb-40 text-gray-400">Blog Sayfası Yapım Aşamasında...</div>} />
         </Routes>
       </main>
 
+      {/* Footer her sayfada sabit */}
       <Footer />
     </div>
   );
