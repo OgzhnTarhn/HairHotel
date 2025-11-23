@@ -10,6 +10,7 @@ export const menuItems = [
       { title: "Protez Saç Nedir?", url: "/hizmet/protez-sac-nedir" },
       { title: "Erkek Protez Saç", url: "/hizmet/erkek-protez-sac" },
       { title: "Kadın Protez Saç", url: "/hizmet/kadin-protez-sac" },
+      { title: "Uygulama Aşamaları", url: "/hizmet/protez-sac-uygulama" }, // <--- İŞTE YENİ LİNK BURADA
       { title: "Protez Saç Ömrü", url: "/hizmet/protez-sac-omru" },
       { title: "Bakım ve Temizlik", url: "/hizmet/protez-sac-bakimi" },
     ],
