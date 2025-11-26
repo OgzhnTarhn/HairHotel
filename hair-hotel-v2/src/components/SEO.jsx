@@ -5,7 +5,7 @@ export default function SEO({ title, description, keywords }) {
   
   const siteName = "Hair Maker";
   
-  const defaultTitle = "Hair Maker | İstanbul Saç Ekim Konaklama & VIP Transfer";
+  const defaultTitle = "Hair Maker | İstanbul Saç Ekim Konaklama Hizmetleri";
   
   // Daha ikna edici ve anahtar kelime barındıran açıklama
   const defaultDesc = "Hair Maker ile İstanbul'da saç ekimi operasyonlarınız için lüks konaklama, VIP transfer ve rehberlik hizmeti alın. Şişli İzzetpaşa'da, kliniğinize yakın, hijyenik ve güvenli otel deneyimi. Yurt dışından gelen misafirler için özel paketler.";
@@ -46,7 +46,7 @@ export default function SEO({ title, description, keywords }) {
       "longitude": 28.9867
     },
     "url": "https://hairmaker.com", // Kendi domainini alınca burayı güncelle
-    "telephone": "+905555555555", // İletişim numaranı buraya yazarsan iyi olur
+    "telephone": "+905016493435", // İletişim numaranı buraya yazarsan iyi olur
     "priceRange": "$$"
   };
 
