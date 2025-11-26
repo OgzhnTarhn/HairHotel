@@ -88,10 +88,10 @@ const ServiceDetail = () => {
             Uzmanlarımızla görüşün, yüz hattınıza en uygun modeli birlikte belirleyelim.
           </p>
           <div className="flex flex-col md:flex-row justify-center gap-4 relative z-10">
-             <a href="https://wa.me/905330000000" className="bg-bronze text-black px-10 py-4 font-bold rounded hover:bg-white transition-colors">
+             <a href="https://wa.me/905016493435" className="bg-bronze text-black px-10 py-4 font-bold rounded hover:bg-white transition-colors">
                Whatsapp'tan Yazın
              </a>
-             <a href="tel:+905330000000" className="border border-white text-white px-10 py-4 font-bold rounded hover:bg-white hover:text-black transition-colors">
+             <a href="tel:+905016493435" className="border border-white text-white px-10 py-4 font-bold rounded hover:bg-white hover:text-black transition-colors">
                Bizi Arayın
              </a>
           </div>

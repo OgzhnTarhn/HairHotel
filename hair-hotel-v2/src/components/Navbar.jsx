@@ -82,7 +82,7 @@ const Navbar = () => {
             
             {/* Telefon Numarası - Rengi Beyaz ve Kalın yaptık */}
             <a 
-              href="tel:+905330000000" 
+              href="tel:05016493435" 
               className="text-white text-xs font-bold tracking-wider hover:text-bronze transition-colors flex items-center gap-2 drop-shadow-lg"
             >
               <span className="text-bronze text-sm">📞</span> 
